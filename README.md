@@ -9,9 +9,9 @@ I'm an **MSc Applied Geoinformatics** student at the **University of Salzburg**,
 - Building my **data analytics** skills: Python, SQL and visualisation
 
 ## 🛠️ Tools I work with
-**Remote sensing & GIS:** Google Earth Engine · ArcGIS Pro · QGIS · ESA SNAP
-**Programming & data:** Python (GeoPandas, Rasterio) · R · PostgreSQL/PostGIS
-**Data sources:** Sentinel-1/2 · Landsat · Copernicus services
+- **Remote sensing & GIS:** Google Earth Engine · ArcGIS Pro · QGIS · ESA SNAP
+- **Programming & data:** Python (GeoPandas, Rasterio) · R · PostgreSQL/PostGIS
+- **Data sources:** Sentinel-1/2 · Landsat · Copernicus services
 
 ## 📚 Currently learning
 Machine learning for Earth Observation · cloud workflows · reproducible analysis with Git and Jupyter
